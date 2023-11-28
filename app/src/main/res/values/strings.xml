@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YumYumHub</string>
+    <string name="nombre">¿Cómo te llamas?</string>
+    <string name="bienvenida">¡Bienvenido a YumYumHub!</string>
+    <string name="creditos">Ir a los creditos</string>
+    <string name="info">%s, estás usando la versión 1 de Yum Yum Hub</string>
+    <string name="contenido">En esta version se ha añadido un boton de contacto con el desarrollador para comunicarle todos los problemas encontrados"</string>
+</resources>
